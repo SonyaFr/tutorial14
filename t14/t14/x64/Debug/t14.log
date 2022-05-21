@@ -1,0 +1,15 @@
+﻿  camera.cpp
+  main.cpp
+C:\dev2\project\lab3\t14\t14\main.cpp(113,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\dev2\project\lab3\t14\t14\main.cpp(146,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  math_3d.cpp
+C:\dev2\project\lab3\t14\t14\math_3d.cpp(53,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t14\t14\math_3d.cpp(53,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev2\project\lab3\t14\t14\math_3d.cpp(54,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t14\t14\math_3d.cpp(54,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev2\project\lab3\t14\t14\math_3d.cpp(55,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dev2\project\lab3\t14\t14\math_3d.cpp(55,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\dev2\project\lab3\t14\t14\math_3d.cpp(103,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  pipeline.cpp
+  Создание кода...
+  t14.vcxproj -> C:\dev2\project\lab3\t14\x64\Debug\t14.exe
